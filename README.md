@@ -2,13 +2,15 @@
 <h3 align="left">Junior Php Back Developer</h3>
 <hr />
 
-- Actualmente estoy aprendiendo **Vue.js**- 💻 👨 Todos mis proyectos están
-disponibles en
-[https://hernanto.github.io/Portafolio/](https://hernanto.github.io/Portafolio/)
-- 📫 🌱 Cómo contactarme **hernanto.ott@outlook.com** - 📄 Conoce mis
-experiencias [https://acortar.link/7nQHCh](https://acortar.link/7nQHCh)
+- 🌱 I’m currently learning **Vue.js**
 
-<h3 align="left">Conéctate conmigo:</h3>
+- 👨‍💻 All of my projects are available at [https://hernanto.github.io/Portafolio/](https://hernanto.github.io/Portafolio/)
+
+- 📫 How to reach me **hernanto.ott@outlook.com**
+
+- 📄 Know about my experiences [https://acortar.link/7nQHCh](https://acortar.link/7nQHCh)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/hernanto" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
