@@ -85,7 +85,7 @@
 
 <p>
     <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=hernanto&show_icons=true&locale=en&layout=compact&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=hernanto&show_icons=true&locale=en&layout=compact&hide_border=true&theme=algolia"
         alt="hernanto" />
 </p>
 <p>
